@@ -1,0 +1,37 @@
+nav{
+      padding: 1px;
+}
+nav ul{
+      list-style-type: none;
+      padding: none;
+}
+li{
+      float: right;
+}
+li form{
+      padding: 1px
+}
+div{
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-right: -50%;
+      transform: translate(-50%, -50%)
+}
+#vintage_anime_girl{
+      max-width: 400px;
+      height: auto;
+      border-radius:5%;
+      border-style: ridge;
+      border-color: black;
+}
+footer{
+      font-size:11px;
+      margin: 0;
+      position: absolute;
+      top: 98%;
+      left: 50%;
+      margin-right: -50%;
+      transform: translate(-50%, -50%)
+}
